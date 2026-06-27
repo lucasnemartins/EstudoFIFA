@@ -13,4 +13,4 @@ Scripts em Python que extraem jogos da API pública da FIFA e fazem análises.
 2. `python fifa_extrair_jogos.py`
 3. Rode os demais scripts conforme a necessidade.
 
-> A API da FIFA não é oficialmente documentada para terceiros e pode mudar sem aviso.# EstudoFIFA.
+> A API da FIFA não é oficialmente documentada para terceiros e pode mudar sem aviso.# EstudoFIFA
