@@ -363,16 +363,6 @@ def poisson_knuth(lam):
 
 ---
 
-## 📄 Documentação adicional
-
-| Arquivo | Conteúdo |
-|---------|---------|
-| `DOCUMENTACAO.md` | Documentação técnica completa do projeto |
-| `FIFA_2026_Documentacao_v2.pdf` | PDF explicativo para iniciantes (18 seções) |
-| `FIFA_2026_Estudo_do_Codigo.pdf` | Código comentado linha por linha (20 seções) |
-
----
-
 ## 👤 Autor
 
 **Lucas Martins**  
