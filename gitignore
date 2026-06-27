@@ -1,0 +1,33 @@
+# ============================================================
+#  Dados e saidas geradas (nao precisam ir pro repositorio)
+# ============================================================
+*.json
+*.csv
+graficos/
+*.png
+
+# ============================================================
+#  Excecoes: imagens usadas no README devem ir pro GitHub
+#  (o "!" significa "NAO ignore isto")
+# ============================================================
+!imagens/
+!imagens/*.png
+
+# ============================================================
+#  Lixo do Python / Jupyter
+# ============================================================
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Arquivos de editor / sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
