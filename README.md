@@ -59,6 +59,9 @@ sobre a Copa do Mundo — de 1930 até a edição de 2026.
 ### Top 10 seleções em gols marcados
 ![Top 10 seleções em gols marcados](imagens/gols_por_selecao.png)
 
+### Top 10 seleções em gols sofridos
+![Top 10 seleções em gols sofridos](imagens/gols_sofridos_por_selecao.png)
+
 ### As 10 maiores goleadas da história
 ![Maiores goleadas](imagens/maiores_goleadas.png)
 
