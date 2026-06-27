@@ -1,0 +1,13 @@
+﻿posicao,selecao,grupo,jogos,vitorias,empates,derrotas,gols_pro,gols_contra,saldo_gols,pontos,classifica
+1,Suécia,K,3,1,1,1,7,7,0,4,Sim
+2,Equador,A,3,1,1,1,2,2,0,4,Sim
+3,Bósnia e Herzegovina,G,3,1,1,1,5,6,-1,4,Sim
+4,Paraguai,D,3,1,1,1,2,4,-2,4,Sim
+5,Senegal,J,3,1,0,2,8,6,2,3,Sim
+6,RI do Irã,F,3,0,3,0,3,3,0,3,Sim
+7,Croácia,I,2,1,0,1,3,4,-1,3,Sim
+8,República da Coreia,L,3,1,0,2,2,3,-1,3,Sim
+9,Argélia,B,2,1,0,1,2,4,-2,3,Nao
+10,Escócia,E,3,1,0,2,1,4,-3,3,Nao
+11,Uruguai,C,3,0,2,1,3,4,-1,2,Nao
+12,RD do Congo,H,2,0,1,1,1,2,-1,1,Nao
