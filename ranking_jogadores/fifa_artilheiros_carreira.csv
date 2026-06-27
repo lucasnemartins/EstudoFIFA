@@ -1,0 +1,173 @@
+﻿posicao,jogador,selecao,gols_total,jogos_total,copas_disputadas
+1,Lionel Messi,Argentina,18,23,5
+2,Miroslav Klose,Alemanha,16,27,4
+3,Ronaldo,Brasil,15,19,3
+4,Gerd Müller,Alemanha,14,12,2
+5,Just Fontaine,França,13,6,1
+6,Uwe Seeler,Alemanha,12,27,5
+7,Pelé,Brasil,12,14,4
+8,Kylian Mbappé,França,12,14,2
+9,Jürgen Klinsmann,Alemanha,11,19,3
+10,Harry Kane,Inglaterra,11,13,3
+11,Sándor Kocsis,Hungria,11,5,1
+12,Cristiano Ronaldo,Portugal,10,26,7
+13,Karl-Heinz Rummenigge,Alemanha,10,16,3
+14,Grzegorz Lato,Polônia,10,14,2
+15,Thomas Müller,Alemanha,10,13,2
+16,Gary Lineker,Inglaterra,10,12,2
+17,Gabriel Batistuta,Argentina,10,12,3
+18,Teofilo Cubillas,Peru,10,11,2
+19,Eusébio,Portugal,9,6,1
+20,Helmut Rahn,Alemanha,8,10,2
+21,Ademir,Brasil,8,6,1
+22,Guillermo Stábile,Argentina,8,4,1
+23,Jairzinho,Brasil,7,6,1
+24,Leônidas,Brasil,7,4,1
+25,Gyula Zsengellér,Hungria,7,4,1
+26,Mario Kempes,Argentina,6,7,1
+27,Paolo Rossi,Itália,6,7,1
+28,Salvatore Schillaci,Itália,6,7,1
+29,Davor Šuker,Croácia,6,7,1
+30,Helmut Haller,Alemanha,6,6,1
+31,Hristo Stoichkov,Bulgária,6,6,1
+32,Erich Probst,Áustria,6,5,1
+33,Morlock,Alemanha,6,5,1
+34,James Rodríguez,Colômbia,6,5,1
+35,Oleg Salenko,Rússia,6,3,1
+36,Romelu Lukaku,Bélgica,5,9,2
+37,Cody Gakpo,Holanda,5,9,2
+38,Andrzej Szarmach,Polônia,5,7,1
+39,Rob Rensenbrink,Holanda,5,7,1
+40,Diego Maradona,Argentina,5,7,1
+41,Romário,Brasil,5,7,1
+42,Rivaldo,Brasil,5,7,1
+43,David Villa,Espanha,5,7,1
+44,Wesley Sneijder,Holanda,5,7,1
+45,Diego Forlán,Uruguai,5,7,1
+46,Emilio Butragueño,Espanha,5,5,1
+47,Tomáš Skuhravý,Tchecoslováquia,5,5,1
+48,Christian Vieri,Itália,5,5,1
+49,Pedro Cea,Uruguai,5,4,1
+50,Oldřich Nejedlý,Tchecoslováquia,5,4,1
+51,Silvio Piola,Itália,5,4,1
+52,Oscar Míguez,Uruguai,5,4,1
+53,Johan Neeskens,Holanda,4,7,1
+54,Olivier Giroud,França,4,7,1
+55,Julian Álvarez,Argentina,4,7,1
+56,Marcus Rashford,Inglaterra,4,7,2
+57,Leonel Sánchez,Chile,4,6,1
+58,Geoff Hurst,Inglaterra,4,6,1
+59,Angelo Schiavio,Itália,4,5,1
+60,Chico,Brasil,4,5,1
+61,Garrincha,Brasil,4,5,1
+62,Vavá,Brasil,4,5,1
+63,Dražan Jerković,Iugoslávia,4,5,1
+64,Zbigniew Boniek,Polônia,4,5,1
+65,Michel,Espanha,4,5,1
+66,Neymar,Brasil,4,5,1
+67,Denis Cheryshev,Rússia,4,5,1
+68,Edmund Conen,Alemanha,4,4,1
+69,Flórián Albert,Hungria,4,4,1
+70,Valentin Ivanov,URSS,4,4,1
+71,Marcelo Salas,Chile,4,4,1
+72,Jon Dahl Tomasson,Dinamarca,4,4,1
+73,Guillermo Subiabre,Chile,4,3,1
+74,Kylian Mbappe,França,4,3,1
+75,Ousmane Dembele,França,4,3,1
+76,Vinicius Junior,Brasil,4,3,1
+77,Erling Haaland,Noruega,4,2,1
+78,Antoine Griezmann,França,3,7,1
+79,Thierry Henry,França,3,6,1
+80,Hernán Crespo,Argentina,3,4,1
+81,Bert Patenaude,EUA,3,3,1
+82,Enner Valencia,Equador,3,3,1
+83,Deniz Undav,Alemanha,3,3,1
+84,Johan Manzambi,Suíça,3,3,1
+85,Ismaila Sarr,Senegal,3,3,1
+86,Brian Brobbey,Holanda,3,3,1
+87,Matheus Cunha,Brasil,3,3,1
+88,Ismael Saibari,Marrocos,3,3,1
+89,Jonathan David,Canadá,3,3,1
+90,Elijah Just,Nova Zelândia,3,3,1
+91,Crysencio Summerville,Holanda,2,3,1
+92,Pape Gueye,Senegal,2,3,1
+93,Ruben Vargas,Suíça,2,3,1
+94,Mikel Oyarzabal,Espanha,2,3,1
+95,Ayase Ueda,Japão,2,3,1
+96,Maxi Araujo,Uruguai,2,3,1
+97,Ramin Rezaeian,IRN,2,3,1
+98,Anthony Elanga,Suécia,2,3,1
+99,Nicolas Pepe,Costa do Marfim,2,3,1
+100,Cyle Larin,Canadá,2,3,1
+101,Kai Havertz,Alemanha,2,3,1
+102,Julian Quinones,México,2,3,1
+103,Daichi Kamada,Japão,2,3,1
+104,Leandro Trossard,Bélgica,2,3,1
+105,Yasin Ayari,Suécia,2,3,1
+106,Ermin Mahmic,Bósnia,2,2,1
+107,Folarin Balogun,EUA,2,2,1
+108,Daniel Munoz,Colômbia,2,2,1
+109,Alexander Isak,Suécia,1,3,1
+110,Mohamed Salah,Egito,1,3,1
+111,Breel Embolo,Suíça,1,3,1
+112,Viktor Gyokeres,Suécia,1,3,1
+113,Soufiane Rahimi,Marrocos,1,3,1
+114,Bradley Barcola,França,1,3,1
+115,Sebastian Berhalter,EUA,1,3,1
+116,Baris Alper Yilmaz,Turquia,1,3,1
+117,Alex Freeman,EUA,1,3,1
+118,Mostafa Zico,Egito,1,3,1
+119,Felix Nmecha,Alemanha,1,3,1
+120,Keito Nakamura,Japão,1,3,1
+121,Hwang Inbeom,Coreia do Sul,1,3,1
+122,Virgil Van Dijk,Holanda,1,3,1
+123,Achraf Hakimi,Marrocos,1,3,1
+124,Giovanni Reyna,EUA,1,3,1
+125,Ibrahim Mbaye,Senegal,1,3,1
+126,Leo Ostigard,Noruega,1,3,1
+127,Oh Hyeongyu,Coreia do Sul,1,3,1
+128,Nilson Angulo,Equador,1,3,1
+129,Lamine Yamal,Espanha,1,3,1
+130,Junya Ito,Japão,1,3,1
+131,Amad Diallo,Costa do Marfim,1,3,1
+132,Iliman Ndiaye,Senegal,1,2,1
+133,Nathan Saliba,Canadá,1,2,1
+134,Promise David,Canadá,1,2,1
+135,Trezeguet,Egito,1,2,1
+136,Luis Romo,México,1,2,1
+137,Nathaniel Brown,Alemanha,1,2,1
+138,Luis Diaz,Colômbia,1,2,1
+139,Rafael Leao,Portugal,1,2,1
+140,Hassan Alhaydos,Catar,1,2,1
+141,Helio Varela,CPV,1,2,1
+142,Jovo Lukic,Bósnia,1,2,1
+143,Marko Arnautovic,Áustria,1,2,1
+144,Alexis Saelemaekers,Bélgica,1,2,1
+145,Habib Diarra,Senegal,1,2,1
+146,Alvaro Fidalgo,México,1,2,1
+147,Mauricio,Paraguai,1,2,1
+148,Petar Musa,Croácia,1,2,1
+149,Auston Trusty,EUA,1,2,1
+150,Aymen Hussein,Iraque,1,2,1
+151,Alex Baena,Espanha,1,2,1
+152,Marcus Holmgren Pedersen,Noruega,1,2,1
+153,Nico Schlotterbeck,Alemanha,1,2,1
+154,Amine Gouiri,Argélia,1,2,1
+155,Abbosbek Fayzullaev,UZB,1,2,1
+156,Raul Jimenez,México,1,2,1
+157,Jude Bellingham,Inglaterra,1,2,1
+158,Thapelo Maseko,África do Sul,1,2,1
+159,Daizen Maeda,Japão,1,2,1
+160,Romano Schmid,Áustria,1,2,1
+161,Nuno Mendes,Portugal,1,2,1
+162,Joao Neves,Portugal,1,2,1
+163,Kaan Ayhan,Turquia,1,1,1
+164,Mattias Svanberg,Suécia,1,1,1
+165,Gessime Yassine,Marrocos,1,1,1
+166,Jaminton Campaz,Colômbia,1,1,1
+167,Ante Budimir,Croácia,1,1,1
+168,Mahmoud Saber,Egito,1,1,1
+169,Nadhir Benbouali,Argélia,1,1,1
+170,Mateo Chavez,México,1,1,1
+171,Hazem Mastouri,Tunísia,1,1,1
+172,Thelo Aasgaard,Noruega,1,1,1

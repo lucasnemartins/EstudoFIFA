@@ -2,7 +2,7 @@
 
 Projeto de extração, análise e previsão estatística da Copa do Mundo FIFA 2026 usando a **API pública da FIFA** e modelos estatísticos em Python puro.
 
-> **Dados atualizados em:** 26/06/2026 — Fase de Grupos
+> **Dados atualizados em:** 27/06/2026 — Fase de Grupos
 
 ---
 
@@ -46,6 +46,32 @@ Projeto de extração, análise e previsão estatística da Copa do Mundo FIFA 2
 | 18 | Maxi ARAUJO | URU | 3 | 278 | 2 | 1 | 3 | 4 | 3 | 0 | 0 | 0 | **13.0** |
 | 19 | CRISTIANO RONALDO | POR | 2 | 201 | 2 | 0 | 2 | 10 | 5 | 0 | 0 | 0 | **13.0** |
 | 20 | Harry KANE | ENG | 2 | 204 | 2 | 0 | 2 | 10 | 4 | 0 | 0 | 0 | **12.0** |
+
+---
+
+### 🌍 Maiores Artilheiros All-Time — Copas do Mundo (1930–2026)
+
+> Dados históricos (1930–2022) baseados nos registros oficiais da FIFA. Dados de 2026 atualizados em tempo real via API. ★ = Copa em andamento.
+
+| # | Jogador | Seleção | Gols | Jogos | Copas |
+|---|---------|---------|:----:|:-----:|:-----:|
+| 1 | ⭐ Lionel Messi | Argentina | **18** ★ | 23 | 5 |
+| 2 | Miroslav Klose | Alemanha | **16** | 27 | 4 |
+| 3 | Ronaldo | Brasil | **15** | 19 | 3 |
+| 4 | Gerd Müller | Alemanha | **14** | 12 | 2 |
+| 5 | Just Fontaine | França | **13** | 6 | 1 |
+| 6 | Uwe Seeler | Alemanha | **12** | 27 | 5 |
+| 7 | Pelé | Brasil | **12** | 14 | 4 |
+| 8 | Kylian Mbappé | França | **12** ★ | 14 | 2 |
+| 9 | Jürgen Klinsmann | Alemanha | **11** | 19 | 3 |
+| 10 | Harry Kane | Inglaterra | **11** ★ | 13 | 3 |
+| 11 | Sándor Kocsis | Hungria | **11** | 5 | 1 |
+| 12 | Cristiano Ronaldo | Portugal | **10** ★ | 26 | 7 |
+| 13 | Karl-Heinz Rummenigge | Alemanha | **10** | 16 | 3 |
+| 14 | Grzegorz Lato | Polônia | **10** | 14 | 2 |
+| 15 | Thomas Müller | Alemanha | **10** | 13 | 2 |
+
+> ★ ainda em campo na Copa 2026
 
 ---
 
